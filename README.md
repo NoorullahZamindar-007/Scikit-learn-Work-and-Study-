@@ -1,5 +1,5 @@
 # Scikit-learn-Work-and-Study-
 Scikit-learn Work and Study 
 
-1- All the work of machine learnign 
+1- All the work of machine learning
 2- You need t
