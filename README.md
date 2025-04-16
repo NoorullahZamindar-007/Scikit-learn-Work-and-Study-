@@ -12,6 +12,5 @@ dfgfdfgfdfgfdfgfdswerew
 hjjvcxvdfdfgfdfgddfgfdfgfdfلالبلاdvfbvdcdvfbdfbgfddddfgfdfgwertrew
     fhgfgffgfgfdfgfdfgfd
 jjjjcxcvbvdffdfdfgfdfgfdfgdfgfdsdfgerfgerttre
-cvbvdcxdfvfdلالبلالبdfgfddfgfdfertre
-fdfgfdfgfgfdfgfdfgfdnb
+cvbvdcxdfvfdلالبلالبdfgfddfgfdfertred
 dfgfdfg
