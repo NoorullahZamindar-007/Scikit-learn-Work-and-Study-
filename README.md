@@ -7,8 +7,7 @@ Scikit-learn Work and Study
 
 3- You also know the statistit      
 
-lkjhgfdert
-dfgfdfgfdfgfdfgfdswerew
+lkjhgfderd
 hjjvcxvdfdfgfdfgddfgfdfgfdfلالبلاdvfbvdcdvfbdfbgfddddfgfdfgwertrew
     fhgfgffgfgfdfgfdfgfd
 jjjjcxcvbvdffdfdfgfdfgfdfgdfgfdsdfgerfgerttre
