@@ -9,6 +9,6 @@ Scikit-learn Work and Study
             
 sdfdfdfsdfdsfsdfsdfsd
  sadfsdfafrgf
-fasdf   fdsfdfdf
+fasdf   fsdfsdfsdf
 fdsfsdfsddf
               dsfdfsdfd
