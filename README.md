@@ -10,7 +10,7 @@ Scikit-learn Work and Study
               
                                                                               cccccccc                 
                                                            cccccccccccccccc
-                    ccccccccccccccccccccccc
+                                      
              ccccccccc
 
                         
