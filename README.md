@@ -6,6 +6,4 @@ Scikit-learn Work and Study
 2- You need to know numpy, pandas
         
 3- You also know the statistit                         
-                                                   
-            
-                
+                                                          
