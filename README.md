@@ -10,15 +10,4 @@ Scikit-learn Work and Study
             
                        
             
-                      
-                       
-                                         
-                                    
-                                            nbhgfeefgd
-                                   bcbcvbbvb
-               
-            
-                    
-              fvdfffdfdfgdf
-    
-            
+              dsfsdfsdfdsfsdf
