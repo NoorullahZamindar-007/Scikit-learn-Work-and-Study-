@@ -13,7 +13,5 @@ Scikit-learn Work and Study
 cxvxcvcxvcxvcxvvcvxcvxcvcxvxcvcxdfdsfsdfdsfsd
 xcvxcvvcxvxcv                             dfsdfdsfsffsd
 dfsdsdfsdfdsfdsfdsfdsfdsfdsfdfsdfsdfdsfdfsdfsdfsdfsdfdfdsfsdfsdfds
-dsfdsfdfsfdsfdfdsff
-dfsdfdfsdf
-vvdsfvsdfdsfsdf
+dsfdsfdfsfdsfdfdsfffdsfdf
 dfsdfdsfdsfsd
