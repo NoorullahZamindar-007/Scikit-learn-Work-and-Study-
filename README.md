@@ -1,4 +1,4 @@
-ffsdfsdf  Scikit-learn-Work-and-Study-
+fffsdfsdf  Scikit-learn-Work-and-Study-
 Scikit-learn Work and Study 
 
 1- All the work of machine learning
@@ -12,6 +12,6 @@ Scikit-learn Work and Study
                             xcvvc   dfsdfdsfsdfsdfdsf
 cxvxcvcxvcxvcxvvcvxcvxcvcxvxcvcxdfdsfsdfdsfsd
 xcvxcvvcxvxcv                             dfsdfdsfsffsd
-dfsdsdfsdfdsfdsfdsfdsfdsfds
+dfsdsdfsdfdsfdsfdsfdsfdsfdsfdfsdfsdfdsf
 dsfdsfdfsfds
 dfsdfdfsdf
