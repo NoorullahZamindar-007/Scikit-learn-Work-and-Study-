@@ -7,6 +7,4 @@ Scikit-learn Work and Study
         
 3- You also know the statistit                                             d             
                     
-                   
- fvdfvdsvvsvdsfsdfdsfsdfsdf                         
- vfbffb   ff ff
+                            
